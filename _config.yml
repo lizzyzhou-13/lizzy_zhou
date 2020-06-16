@@ -59,7 +59,11 @@ author:
   name   : "Lizzy Zhou"
   avatar : "/assets/images/profile-photo.jpg"
   bio    : "Photographer, Gamer, Learning Programmer"
+  location: "Rotterdam, the Netherlands"
   links:
+    - label: "Email"
+      icon: "fab fa-fw fa-Email"
+      url: "lizzy.zhou03@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lizhongyang-lizzy-zhou"
