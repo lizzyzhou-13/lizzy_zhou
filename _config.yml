@@ -60,6 +60,7 @@ author:
   avatar : "/assets/images/profile-photo.jpg"
   bio    : "Photographer, Gamer, Learning Programmer"
   location: "Rotterdam, the Netherlands"
+  email  : "lizzy.zhou03@gmail.com"
   links:
     - label: "Email"
       icon: "fab fa-fw fa-Email"
