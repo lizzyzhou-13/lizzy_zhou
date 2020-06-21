@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="55b402b7-37bf-46e2-a031-eb4fc16a9073" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-01-apple-stock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-06-02-apple-stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-02-apple-stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/output_10_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/output_34_2.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,19 @@
       <option name="presentableId" value="Default" />
       <updated>1592254708175</updated>
     </task>
+    <task id="LOCAL-00001" summary="update apple stock">
+      <created>1592506990477</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592506990477</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update apple stock" />
+    <option name="LAST_COMMIT_MESSAGE" value="update apple stock" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1570" y="214" key="CommitChangelistDialog2" timestamp="1592506990120">
@@ -111,9 +125,9 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="141" y="50" key="SettingsEditor/0.23.1280.777/1280.23.1920.1177@0.23.1280.777" timestamp="1592254771850" />
-    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog" timestamp="1592506960579">
+    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog" timestamp="1592755705401">
       <screen x="1280" y="23" width="1920" height="1177" />
     </state>
-    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.1177@1280.23.1920.1177" timestamp="1592506960579" />
+    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.1177@1280.23.1920.1177" timestamp="1592755705401" />
   </component>
 </project>

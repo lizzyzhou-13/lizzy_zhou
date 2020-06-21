@@ -1,6 +1,17 @@
-### Description: 
+---
+title: "Stock Price Prediction using Long Short Term Memory Model"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
 
-This program uses an Artificial Recurrent Neural network called Long Short Term Memory (LSTM) to predict the closing stock price of a corporation (Aplle Inc.) using the past 60 days stock price. Stock data is provided from Yahoo Finance. The target future in this prediction analysis is 'Close' price instead of 'Adjusted Close' price.
+--- 
+
+This program uses an Artificial Recurrent Neural network called Long Short Term 
+Memory (LSTM) to predict the closing stock price of a corporation (Aplle Inc.) 
+using the past 60 days stock price. Stock data is provided from Yahoo Finance. 
+The target future in this prediction analysis is 'Close' price instead of 
+'Adjusted Close' price.
 
 #### Get the data
 
@@ -254,7 +265,7 @@ plt.show()
 ```
 
 
-![alt](/assets/images/output_10_0.png)
+![png](/assets/images/apple/output_10_0.png)
 
 
 If you are the lucky guy who bought the stock of Apple around mid of 2013, where the price was roughly about $60, today your asset is going to be worth 321 ish. 
@@ -505,7 +516,7 @@ plt.show
 
 
 
-![png](/assets/images/output_34_2.png)
+![png](/assets/images/apple/output_34_2.png)
 
 
 Basically from the figure above we can see the trend of predicted stock price (yellow) follows the actual trend (red).
