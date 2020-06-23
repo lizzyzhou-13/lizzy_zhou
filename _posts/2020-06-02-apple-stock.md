@@ -265,7 +265,7 @@ plt.show()
 ```
 
 
-![png](/assets/images/apple/output_10_0.png)
+![png](/assets/images/apple_10_0.png)
 
 
 If you are the lucky guy who bought the stock of Apple around mid of 2013, where the price was roughly about $60, today your asset is going to be worth 321 ish. 
@@ -516,7 +516,7 @@ plt.show
 
 
 
-![png](/assets/images/apple/output_34_2.png)
+![png](/assets/images/apple_34_2.png)
 
 
 Basically from the figure above we can see the trend of predicted stock price (yellow) follows the actual trend (red).
