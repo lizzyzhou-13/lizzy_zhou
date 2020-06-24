@@ -3,27 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="55b402b7-37bf-46e2-a031-eb4fc16a9073" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2010-01-07-post-modified.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2010-01-07-post-standard.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2010-01-08-post-chat.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2010-02-05-post-notice.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2010-02-05-post-quote.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2010-03-07-post-link.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-18-welcome-to-jekyll.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-02-apple-stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-02-apple-stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-01-Efficient _Frontier.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-Efficient _Frontier.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2020-06-21-titanic.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-21-titanic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple/output_10_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/apple/output_34_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/efficient_frontier/output_18_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/efficient_frontier/output_21_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/efficient_frontier/output_33_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/efficient_frontier/output_51_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/titanic/output_13_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/titanic/output_15_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/titanic/output_22_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/titanic/output_23_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/titanic/output_27_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/titanic/output_57_1.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,9 +124,10 @@
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="141" y="50" key="SettingsEditor/0.23.1280.777/1280.23.1920.1177@0.23.1280.777" timestamp="1592254771850" />
-    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog" timestamp="1592935480511">
-      <screen x="1280" y="23" width="1920" height="1177" />
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog" timestamp="1592997920046">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1592997920046" />
     <state x="1933" y="444" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.1177@1280.23.1920.1177" timestamp="1592935480511" />
   </component>
 </project>
