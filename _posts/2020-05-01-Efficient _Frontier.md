@@ -343,7 +343,7 @@ plt.ylabel('price in $')
 ```
 
 
-![png]({{site.url}}{{site.baseurl}}/assets/images/efficient_frontier_18_1.png)
+![png]({{site.url}}{{site.baseurl}}/assets/images/efficient_frontier/output_18_1.png)
 
 
 It looks like that Amazon and Google's stock price is relatively more expensive 
@@ -370,7 +370,7 @@ plt.ylabel('daily returns')
 
 
 
-![png](/assets/images/efficient_frontier_21_2.png)
+![png]({{site.url}}{{site.baseurl}}/assets/images/efficient_frontier/output_21_2.png)
 
 
 Amazon has two distinctive positive spikes and a couple of negative ones. 
@@ -514,7 +514,7 @@ display_simulated_ef_with_random(mean_returns, cov_matrix, num_portfolios, risk_
 
 
 
-![png](/assets/images/efficient_frontier_33_1.png)
+![png]({{site.url}}{{site.baseurl}}/assets/images/efficient_frontier/output_33_1.png)
 
 
 For minimum risk portfolio, we can see that more than half of our budget is 
@@ -802,7 +802,7 @@ display_ef_with_selected(mean_returns, cov_matrix, risk_free_rate)
 
 
 
-![png](/assets/images/efficient_frontier_51_1.png)
+![png]({{site.url}}{{site.baseurl}}/assets/images/efficient_frontier/output_51_1.png)
 
 
 As you can see from the above plot, the stock with the least risk is Google at 
