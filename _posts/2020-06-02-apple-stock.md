@@ -4,7 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-
+  - stock
+  - finance
 --- 
 
 This program uses an Artificial Recurrent Neural network called Long Short Term 
