@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="55b402b7-37bf-46e2-a031-eb4fc16a9073" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-02-apple-stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-02-apple-stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-01-Efficient _Frontier.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-05-01-Efficient _Frontier.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

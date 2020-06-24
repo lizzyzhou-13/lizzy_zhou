@@ -343,7 +343,7 @@ plt.ylabel('price in $')
 ```
 
 
-![png](/assets/images/efficient_frontier_18_1.png)
+![png]({{site.url}}{{site.baseurl}}/assets/images/efficient_frontier_18_1.png)
 
 
 It looks like that Amazon and Google's stock price is relatively more expensive 
