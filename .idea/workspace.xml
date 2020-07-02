@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="55b402b7-37bf-46e2-a031-eb4fc16a9073" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-10-var.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-06-10-var.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-01-Efficient _Frontier.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-03-Efficient _Frontier.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-06-02-apple-stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-10-apple-stock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-06-10-var.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-01-var.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Markdown" />
   </component>
   <component name="RunManager">
     <configuration name="python_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -101,6 +103,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="update apple stock" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2582" y="387" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593680758382">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2582" y="387" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1593680758382" />
     <state x="1570" y="214" key="CommitChangelistDialog2" timestamp="1592506990120">
       <screen x="1280" y="23" width="1920" height="1177" />
     </state>
@@ -121,15 +127,17 @@
       <screen x="1280" y="23" width="1920" height="1177" />
     </state>
     <state width="1267" height="329" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1177@1280.23.1920.1177" timestamp="1592346458548" />
-    <state x="141" y="50" key="SettingsEditor" timestamp="1592254771850">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="2132" y="40" key="SettingsEditor" timestamp="1593698862849">
+      <screen x="1920" y="0" width="1920" height="1160" />
     </state>
+    <state x="2132" y="40" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1593698862849" />
     <state x="141" y="50" key="SettingsEditor/0.23.1280.777/1280.23.1920.1177@0.23.1280.777" timestamp="1592254771850" />
-    <state x="435" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1593000663608">
-      <screen x="0" y="23" width="1280" height="777" />
+    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog" timestamp="1593720135235">
+      <screen x="1280" y="23" width="1920" height="1177" />
     </state>
     <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1592997920046" />
-    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.1177@1280.23.1920.1177" timestamp="1592935480511" />
+    <state x="2573" y="415" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1593680707836" />
+    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.1177@1280.23.1920.1177" timestamp="1593720135235" />
     <state x="435" y="301" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1593000663608" />
   </component>
 </project>
