@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="55b402b7-37bf-46e2-a031-eb4fc16a9073" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-05-01-Efficient _Frontier.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-03-Efficient _Frontier.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-02-apple-stock.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-10-apple-stock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-06-10-var.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-01-var.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-02-var.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-02-var.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,11 +130,12 @@
     </state>
     <state x="2132" y="40" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1593698862849" />
     <state x="141" y="50" key="SettingsEditor/0.23.1280.777/1280.23.1920.1177@0.23.1280.777" timestamp="1592254771850" />
-    <state x="1933" y="444" key="com.intellij.ide.util.TipDialog" timestamp="1593720135235">
-      <screen x="1280" y="23" width="1920" height="1177" />
+    <state x="435" y="301" key="com.intellij.ide.util.TipDialog" timestamp="1593944508213">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="653" y="372" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1592997920046" />
     <state x="2573" y="415" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1160@1920.0.1920.1160" timestamp="1593680707836" />
+    <state x="435" y="301" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.1177@0.23.1280.777" timestamp="1593944508213" />
     <state x="1933" y="444" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.1177@1280.23.1920.1177" timestamp="1593720135235" />
     <state x="435" y="301" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1593000663608" />
   </component>
