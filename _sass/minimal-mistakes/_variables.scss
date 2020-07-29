@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 14 !default;
+$doc-font-size: 12 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -119,22 +119,22 @@ $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 /* syntax highlighting (base16) */
-$base00: #F5F5F5 !default;
-$base01: #E0E0E0 !default;
-$base02: #D0D0D0 !default;
-$base03: #B0B0B0 !default;
-$base04: #505050 !default;
-$base05: #303030 !default;
-$base06: #202020 !default;
-$base07: #151515 !default;
-$base08: #AC4142 !default;
-$base09: #D28445 !default;
-$base0a: #F4BF75 !default;
-$base0b: #90A959 !default;
-$base0c: #75B5AA !default;
-$base0d: #6A9FB5 !default;
-$base0e: #AA759F !default;
-$base0f: #8F5536 !default;
+$base00: #ffffff !default;
+$base01: #e0e0e0 !default;
+$base02: #d6d6d6 !default;
+$base03: #8e908c !default;
+$base04: #969896 !default;
+$base05: #4d4d4c !default;
+$base06: #282a2e !default;
+$base07: #1d1f21 !default;
+$base08: #c82829 !default;
+$base09: #f5871f !default;
+$base0a: #eab700 !default;
+$base0b: #718c00 !default;
+$base0c: #3e999f !default;
+$base0d: #4271ae !default;
+$base0e: #8959a8 !default;
+$base0f: #a3685a !default;
 
 /*
    Breakpoints
